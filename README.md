@@ -1,6 +1,9 @@
 # TreeLinq
 Attaching Linq-like functionality to hierarchically oriented classes.
 
+### License
+[MIT License](https://opensource.org/licenses/MIT)
+
 ### Suggested usage
 Since all the functionality is located in the one class 'Tree' the way to go, in my opinion, is simply to copy the file and change the namespace so it matches your project.
 
